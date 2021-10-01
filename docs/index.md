@@ -1,7 +1,7 @@
 hello-world
 ===========
-![Build Status](https://github.com/DANS-KNAW/hello-world/actions/workflows/build.yml/badge.svg)
-![Site Status](https://github.com/DANS-KNAW/hello-world/actions/workflows/docs.yml/badge.svg)
+![Build Status](https://github.com/DANS-KNAW/dku-hello-world/actions/workflows/build.yml/badge.svg)
+![Site Status](https://github.com/DANS-KNAW/dku-hello-world/actions/workflows/docs.yml/badge.svg)
 
 <!-- Remove this comment and extend the descriptions below -->
 
