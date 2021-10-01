@@ -14,13 +14,13 @@
 # limitations under the License.
 #
 
-site_name: hello-world
+site_name: dku-hello-world
 theme:
   name: dans
   disclaimer: false
 
-repo_name: DANS-KNAW/hello-world
-repo_url: https://github.com/DANS-KNAW/hello-world
+repo_name: DANS-KNAW/dku-hello-world
+repo_url: https://github.com/DANS-KNAW/dku-hello-world
 
 nav:
   - Manual: index.md
